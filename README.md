@@ -83,7 +83,7 @@ Embora o script realize a configuração base, a norma ABNT exige cuidados manua
 
 ## Autor
 
--   **Ney Designer**
+-   **chiefmodoc**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K01KWCZW)
 ---
